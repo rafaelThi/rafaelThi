@@ -1,7 +1,7 @@
 ### Rafael Pereira de Melo
 
 
-- :computer: Atualmente trabalho como Analista de Software
+- :computer: Acting as a Software Analyst
 - :scroll: Estudando duas pós graduações em Engenharai de Software e Data Mining 
 - 📫 Contate-me no email: rafael.pereira20@icloud.com
 
