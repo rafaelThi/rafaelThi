@@ -1,4 +1,4 @@
-### Rafael Pereira de Melo
+### Rafael Thiago Pereira de Melo
 
 
 - :computer: Acting as a Software Analyst 
